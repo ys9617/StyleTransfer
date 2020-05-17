@@ -1,11 +1,11 @@
-[image1]: ./img/content_style_reconstruction.PNG "CSR"
+[image1]: ./img/content_style_reconstruction.png "CSR"
 
 # Image Style Transfer Using Convolutional Neural Networks
 
 Changing image style by using CNN features.
 
 <figure>
-    <img src="./img/result2.PNG"/>
+    <img src="./img/result2.png"/>
     <figcaption> Content, Style and Style Transfered Image. The content image is HS J's wedding snap photo in JEJU island(2020).<br/> The style image is Egon Schiele's Self-Portrait with Physails(1912).
     <br/> The style transfered image made by using 'A Neural Algorithm of Artistic Style'.</figcaption>
 </figure>
